@@ -8,4 +8,4 @@ First, just create an mbtiles file (via Tilemill probably cause it's freaking am
 1. `npm install`
 1. `node server.js TILEFILE [PORT]`
 
-Visit [http://localhost:3000/3/1/2.png](http://localhost:3000/3/1/2.png)
+Visit [http://localhost:3000/map/3/1/2.png](http://localhost:3000/map/3/1/2.png)
