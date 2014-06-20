@@ -6,7 +6,7 @@
   , "author": "Chris Helm"
   , "dependencies": {
     "express": "*"
-    , "mbtiles": "*"
+    , "mbtiles": "https://github.com/mhitza/node-mbtiles/tarball/master"
   }
   , "engines": {
     "node": "0.8.x"
